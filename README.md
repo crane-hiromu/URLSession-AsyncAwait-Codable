@@ -56,11 +56,9 @@ struct APICliant {
 ## Example
 
 ```.swift
-do {
+async {
     let request = UserRequest()
     let response = try await APICliant.call(request)
-    users.send(response.data)
-} catch let error {
-    debugPrint(error.localizedDescription)
+    debugPrint(response)
 }
 ```
