@@ -14,7 +14,7 @@ You can call API by URLSession + async/await.
 2. Install Alamofire
 
 ## SetUp
-Must read [Qiita](https://qiita.com/H_Crane/)
+Must read [Qiita](https://qiita.com/hcrane/items/288a5f89dc5b2dbec8f2)
 
 ## Code
 
